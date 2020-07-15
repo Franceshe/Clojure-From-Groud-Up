@@ -1,5 +1,12 @@
 # Clojure-From-Groud-Up
 
+## depedency:
+* [JVM: ava Virtual Machine]: software which runs a Clojure program
+* [JDK]
+* [Leiningen](https://leiningen.org/): Leiningen automatically handles
+installing Clojure, finding libraries from the internet, and building and running your programs. 
+
+
 ## Prereq:
 * For emacs users:set up [cider:The Clojure Interactive Development Environment that Rocks for Emacs]( https://github.com/clojure-emacs/cider), to prevent undesired server error from `lein repl` command.
 
